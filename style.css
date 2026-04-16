@@ -83,6 +83,10 @@ footer section {
     padding: 8px 30px;
 }
 
+.footer-line {
+  margin-top: 40px;
+}
+
 .navbar a {
     display: block;
     padding: 6px 12px;
